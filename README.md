@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="JiYu Trainer Title" src="./img/kms.png">
+  <img alt="logo pic" src="./img/kms.png">
 </p>
 <p align="center">Kms激活</p>
 
